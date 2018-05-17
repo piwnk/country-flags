@@ -1,0 +1,9 @@
+.flag {
+  max-height: 200px;
+  box-shadow: 0 0 20px grey;
+  margin: 10px;
+}
+
+.flag:hover {
+  transform: scale(1.03);
+}
