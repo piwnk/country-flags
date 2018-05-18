@@ -19,7 +19,8 @@
     "react-svg": "^3.0.6",
     "redux": "^4.0.0",
     "redux-devtools-extension": "^2.13.2",
-    "svg-country-flags": "^1.2.1"
+    "svg-country-flags": "^1.2.1",
+    "world-countries": "mledoze/countries"
   },
   "scripts": {
     "start": "react-scripts start",

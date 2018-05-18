@@ -7288,6 +7288,10 @@ worker-farm@^1.3.1:
   dependencies:
     errno "~0.1.7"
 
+world-countries@mledoze/countries:
+  version "2.0.0"
+  resolved "https://codeload.github.com/mledoze/countries/tar.gz/db61f75eb73a3fc0796faabef0bcb6415fe7b9c2"
+
 wrap-ansi@^2.0.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/wrap-ansi/-/wrap-ansi-2.1.0.tgz#d8fc3d284dd05794fe84973caecdd1cf824fdd85"

@@ -5,7 +5,18 @@ import './style.css';
 
 const Flag = ({ countryAlpha }) => (
   <div>
-    <img className="flag" src={`svg/${countryAlpha}.svg`} alt="flag" />
+    {/* <button
+      className="btn btn-primary"
+      type="button"
+      > */}
+    <img
+      className="flag"
+      src={`svg/${countryAlpha}.svg`}
+      alt="flag"
+      data-toggle="modal"
+      data-target="#exampleModal"
+    />
+    {/* </button> */}
   </div>
 );
 
